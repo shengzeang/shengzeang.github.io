@@ -5,11 +5,10 @@ title: Publications
 
 
 #### Accpeted papers
-- **Wentao Zhang**, Xupeng Miao, Yingxia Shao, Jiawei Jiang, Lei Chen, Olivier Ruas, Bin Cui, [Reliable Data Distillation on Graph Convolutional Network](https://dl.acm.org/doi/pdf/10.1145/3318464.3389706), SIGMOD 2020 [Accepted]
-- **Wentao Zhang**, Jiawei Jiang, Yingxia Shao, Bin Cui, [Efficient Diversity-Driven Ensemble for Deep Neural Networks](https://ieeexplore.ieee.org/abstract/document/9101773),ICDE 2020 [Accepted]
-- **Wentao Zhang**, Jiawei Jiang, Yingxia Shao, Bin Cui. [Snapshot Boosting: A Fast Ensemble Framework for Deep Neural Networks](https://link.springer.com/content/pdf/10.1007/s11432-018-9944-x.pdf). Sci China Inf Sci, 2020, 63(1): 112102 [Accepted]
-- Xupeng Miao, Nezihe Merve Gürel, **Wentao Zhang**, et al. [DeGNN: Characterizing and Improving Graph Neural Networks with Graph Decomposition](https://arxiv.org/abs/1910.04499)
-- **Wentao Zhang**, Bin Yuan, ZhiPeng Zhang, Bin Cui. Distributed Optimization and Implementation of Graph Embedding Algorithms, Journal of Software, 2020 [Accepted]
-- Shiwen Wu, **Wentao Zhang**, Fei Sun, Bin Cui. [Graph Neural Networks in Recommender Systems: A Survey](https://arxiv.org/abs/2011.02260).
+- Wentao Zhang$^1$, **Zeang Sheng$^1$**, Ziqi Yin, Yuezihan Jiang, Yikuan Xia, Jun Gao, Zhi Yang, Bin Cui, [Model Degradation Hinders Deep Graph Neural Networks](https://dl.acm.org/doi/10.1145/3534678.3539374), SIGKDD 2022;
+- Wentao Zhang, **Zeang Sheng**, Mingyu Yang, Yang Li, Yu Shen, Zhi Yang, Zichao Yang, Bin Cui, [NAFS: A Simple yet Tough-to-Beat Baseline for Graph Representation Learning](https://proceedings.mlr.press/v162/zhang22y.html), ICML 2022;
+- Wentao Zhang, Ziqi Yin, **Zeang Sheng**, Yang Li, Wen Ouyang, Xiaosen Li, Yangyu Tao, Zhi Yang, Bin Cui, [Graph attention multi-layer perceptron](https://dl.acm.org/doi/10.1145/3534678.3539121), SIGKDD 2022;
+- Wentao Zhang, Mingyu Yang, **Zeang Sheng**, Yang Li, Wen Ouyang, Yangyu Tao, Zhi Yang, Bin Cui, [Node dependent local smoothing for scalable graph learning](https://proceedings.neurips.cc/paper/2021/hash/a9eb812238f753132652ae09963a05e9-Abstract.html), NeurIPS 2021 Spotlight;
+- Wentao Zhang, Yuezihan Jiang, Yang Li, **Zeang Sheng**, Yu Shen, Xupeng Miao, Liang Wang, Zhi Yang, Bin Cui, [ROD: reception-aware online distillation for sparse graphs](https://dl.acm.org/doi/abs/10.1145/3447548.3467221), SIGKDD 2021.
 
 
